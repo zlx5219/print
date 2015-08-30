@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>print</name>
-	<description>S�Sp</description>
+	<description></description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
